@@ -1,0 +1,16 @@
+{
+    "name": "_Main.ServiceLocatorSys",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cb209e4719ca48bf902671da17691565"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
